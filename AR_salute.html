@@ -18,8 +18,11 @@
             position="0 0 0"
             scale="1 1 1"
             obj-model="obj: url(/media/wateringcan.obj);mtl: url(/media/wateringcan.mtl);"
-                rotation="0 90 0"
-                repeat="indefinite"
+                <a-animation attribute="rotation"
+               dur="10000"
+               fill="forwards"
+               to="0 90 0"
+               repeat="indefinite"></a-animation>
             > </a-entity>
         </a-marker>
 
