@@ -1,0 +1,23 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl plastik.002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.597202 0.124709 0.066514
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl plastik.003
+Ns 483.998919
+Ka 1.000000 1.000000 1.000000
+Kd 0.597202 0.124709 0.066514
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.528764 C:\\Users\\icara\\AppData\\Local\\Temp\\gltfimg-gjclntgm\\Image_0.png
